@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r9U7R3NbdF36FmPZHXVEU2sPfGJgq8WAX6UnfRdwg8M2RHWYyhnM14hy1+8ezDPcsKYOl44gmyEhKf6BtSSL+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaio\\Documents\\StudyXamarin\\App01_ConsultarCep\\App01_ConsultarCep.iOS\\App01_ConsultarCep.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaio\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Kaio\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Kaio\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Kaio\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

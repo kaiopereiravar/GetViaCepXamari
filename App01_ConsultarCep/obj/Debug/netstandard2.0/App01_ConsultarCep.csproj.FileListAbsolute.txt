@@ -1,0 +1,15 @@
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\bin\Debug\netstandard2.0\App01_ConsultarCep.deps.json
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\bin\Debug\netstandard2.0\App01_ConsultarCep.dll
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\bin\Debug\netstandard2.0\App01_ConsultarCep.pdb
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\App01_ConsultarCep.csproj.AssemblyReference.cache
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\App01_ConsultarCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\App01_ConsultarCep.AssemblyInfoInputs.cache
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\App01_ConsultarCep.AssemblyInfo.cs
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\App01_ConsultarCep.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\App01_ConsultarCep.dll
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\refint\App01_ConsultarCep.dll
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\App01_ConsultarCep.pdb
+C:\Users\Kaio\Documents\StudyXamarin\App01_ConsultarCep\App01_ConsultarCep\obj\Debug\netstandard2.0\ref\App01_ConsultarCep.dll
